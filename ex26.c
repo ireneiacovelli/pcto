@@ -6,9 +6,7 @@ int main()
     scanf("%d", &numero);
     while( numero >)
     {
-        printf("%d", numero);
-       numero = %numero - 1;
-
+        
 
     }
 }
